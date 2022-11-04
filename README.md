@@ -4,40 +4,18 @@
   </a>
 </p>
 <h1 align="center">
-Workshop 1: Fetch
+  Proyectos del Curso: Manipulación del DOM
 </h1>
 
+Durante el curso se trabajaron dos workshops que puedes encontrar en este repositorio:
 
-### 🤖 Guía Rápida
-
-1.  **Clona el repositorio.**
-
-    En caso que no lo hayas hecho ya: 
-
-    ```sh
-    git@github.com:christopherwilliamflores/Dom-Workshop-1-Fetch.git
-    cd Dom-Workshop-1-Fetch
-    ```
-    
-1.  **Instala dependencias.**
-
-    Desde la raiz del repositorio:
-
-    ```sh
-    yarn
-    ```
-
-1.  **Corre este Workshop.**
+* [Workshop 1: Fetch](https://github.com/christopherwilliamflores/dom/tree/main/workshop-fetch)
+<!-- * [Wordshop 2: Lazy Loading](https://github.com/jonalvarezz/platzi-dom/tree/main/workshop-lazy-loading) -->
 
 
-    Inicia el proyecto
+<!-- ### 🐞 Encontraste un error o mejora?
+Ayuda a otros estudiantes con eso que acabas de descubrir que haría este curso y respositorio mucho mejor.
+* En [Issues](https://github.com/jonalvarezz/platzi-dom/issues/new) puedes reportar errores, agregar sugerencias y comentarios.
+* Por su parte, los [Pull Request](https://github.com/jonalvarezz/platzi-dom/pulls) siempre estarán abiertos para recibir mejoras puntuales. -->
 
-    ```sh
-    yarn start
-    ```
-
-    El sitio estará disponible en http://localhost:8080.
-    
---------
-
-This project was created using [Snowpack Tailwind Template](#quick-start)
+Happy hacking!
